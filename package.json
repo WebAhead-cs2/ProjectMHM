@@ -1,0 +1,22 @@
+{
+  "name": "projectmhm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebAhead-cs2/ProjectMHM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebAhead-cs2/ProjectMHM/issues"
+  },
+  "homepage": "https://github.com/WebAhead-cs2/ProjectMHM#readme",
+  "dependencies": {
+    "eslint": "^8.27.0"
+  }
+}
