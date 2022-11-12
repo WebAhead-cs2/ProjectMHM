@@ -16,7 +16,8 @@
     "url": "https://github.com/WebAhead-cs2/ProjectMHM/issues"
   },
   "homepage": "https://github.com/WebAhead-cs2/ProjectMHM#readme",
-  "dependencies": {
-    "eslint": "^8.27.0"
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
